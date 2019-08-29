@@ -4,8 +4,9 @@ Om hiermee aan de slag te gaan is er het volgende stappenplan:
 1. Download repository (rechts boven staat download of via je shell: git clone https://github.com/jwissink/LUA/)
 2. Open `Script.LUA` en lees de text en functies
 3. Open `SFMLCore.exe` en bekijk wat de code doet
-4. Maak het bestand `Script.lua` leeg
-5. Maak je eigen gameplay met de volgende functies
+4. Maak een backup van het bestand `Script.lua` en noem deze `BackupScript.lua`. Deze kan je gebruiken als referentie
+5. Maak nu zelf een `Script.lua` bestand aan (rechtermuisknop->nieuw->textDocument->`new text document.txt` hernoemen naar `Script.lua`) en maak een avontuur met behulp van de volgende functies:
+
 * setBackground
 
    Zet de achtergond naar een plaatje in de Textures folder
